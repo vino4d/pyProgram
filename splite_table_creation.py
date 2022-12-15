@@ -1,3 +1,5 @@
+#Program to create db & tables using sqlite3
+
 import sqlite3
 #create db
 conn=sqlite3.connect("companydetails.db")
