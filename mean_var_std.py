@@ -1,3 +1,6 @@
+#calculate mean, variance, standard deviations
+#For 3*3 matrix that given by user
+
 import numpy as np
 a=input()
 a=a.split(',')
