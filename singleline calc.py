@@ -1,3 +1,12 @@
+#single line Calculator
+'''
+Calculator that doing arthimetic operations
+on single line queries by user.
+Example: 6+8/2-3
+         5/7*44+7-540
+         4+8/9-55+34-22*2-6*295
+'''
+
 #lib for spl split func
 import re
 #to get user input
